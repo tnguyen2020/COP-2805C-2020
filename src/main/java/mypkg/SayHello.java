@@ -32,6 +32,11 @@ public class SayHello
         System.out.println();
         counter++;
 
+        System.out.print("Hello, I am Jeremy Johnson. ");
+        System.out.println("The best thing about a boolean is even if you are wrong, you are only off by a bit.");
+        System.out.println();
+        counter++;
+
         System.out.println( "Number of students who edited this file: "
             + counter );
     }

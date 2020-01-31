@@ -25,9 +25,11 @@ public class SayHello
         System.out.println( "Greetings! My name is Tyler Swessel." );
         counter++;
 
+        System.out.println();
         System.out.println( "Hello from Amy DeStefanis.  ");
         System.out.println( "What's the difference between a watermelon and a sweet pea? ");
         System.out.println( "....  about 15 minutes!!! ");
+        System.out.println();
         counter++;
 
         System.out.println( "Number of students who edited this file: "

@@ -37,6 +37,11 @@ public class SayHello
         System.out.println();
         counter++;
 
+        System.out.println( "Hello, This is Charles Sanders, What is the programmers favorite hangout place?" );
+        System.out.println( "Answer: Foo Bar" );
+        System.out.println();
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }

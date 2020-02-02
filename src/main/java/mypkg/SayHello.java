@@ -39,7 +39,7 @@ public class SayHello
         
         
         System.out.println("Hello Everyone! This is Robert Spangler. "+
-                "you can call by my middle name, Alex.");
+                "you can call me by my middle name, Alex.");
         counter++;
 
         System.out.println( "Number of students who edited this file: "

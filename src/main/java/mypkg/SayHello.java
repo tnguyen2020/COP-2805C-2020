@@ -42,6 +42,14 @@ public class SayHello
                 "you can call me by my middle name, Alex.");
         counter++;
 
+        System.out.println( "Hello, This is Charles Sanders, What is the programmers favorite hangout place?" );
+        System.out.println( "Answer: Foo Bar" );
+        System.out.println();
+        counter++;
+        
+        System.out.println("Hello all, My name is Errol Keith");
+        counter++;
+        
         System.out.println( "Number of students who edited this file: "
             + counter );
     }
